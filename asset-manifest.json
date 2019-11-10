@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/oushanskeen/docbuilder/static/css/main.ad10eca3.chunk.css",
+    "main.js": "/oushanskeen/docbuilder/static/js/main.b8d49ea5.chunk.js",
+    "main.js.map": "/oushanskeen/docbuilder/static/js/main.b8d49ea5.chunk.js.map",
+    "runtime-main.js": "/oushanskeen/docbuilder/static/js/runtime-main.64e6089b.js",
+    "runtime-main.js.map": "/oushanskeen/docbuilder/static/js/runtime-main.64e6089b.js.map",
+    "static/js/2.f99a7924.chunk.js": "/oushanskeen/docbuilder/static/js/2.f99a7924.chunk.js",
+    "static/js/2.f99a7924.chunk.js.map": "/oushanskeen/docbuilder/static/js/2.f99a7924.chunk.js.map",
+    "index.html": "/oushanskeen/docbuilder/index.html",
+    "precache-manifest.d50983ef85e252fbc6072caf886be9f4.js": "/oushanskeen/docbuilder/precache-manifest.d50983ef85e252fbc6072caf886be9f4.js",
+    "service-worker.js": "/oushanskeen/docbuilder/service-worker.js",
+    "static/css/main.ad10eca3.chunk.css.map": "/oushanskeen/docbuilder/static/css/main.ad10eca3.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64e6089b.js",
+    "static/js/2.f99a7924.chunk.js",
+    "static/css/main.ad10eca3.chunk.css",
+    "static/js/main.b8d49ea5.chunk.js"
+  ]
+}
