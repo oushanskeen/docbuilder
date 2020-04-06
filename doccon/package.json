@@ -1,18 +1,21 @@
 {
   "name": "doccon",
+  "homepage": "http://oushanskeen.github.io/dodoc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.2.0"
+    "react-scripts": "^3.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -30,5 +33,6 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
