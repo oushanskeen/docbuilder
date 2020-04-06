@@ -8,7 +8,7 @@ function App() {
   return (
     <main>
         <Switch>
-            <Route exact path="/docbuilder/home" 
+            <Route exact path="/docbuilder/" 
                 component={Home} />          
         </Switch>
     </main>
