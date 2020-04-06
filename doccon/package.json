@@ -1,6 +1,6 @@
 {
   "name": "doccon",
-  "homepage": "http://oushanskeen.github.io/dodoc",
+  "homepage": "http://oushanskeen.github.io/docbuilder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
